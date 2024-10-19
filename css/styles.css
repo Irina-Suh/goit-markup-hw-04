@@ -502,8 +502,8 @@ font-family: "Raleway", sans-serif;
     color: #f4f4fd;
 }
 
-.footer-icon-list{
-    display: flex;
+.footer-container-icon{
+    margin-left: 0;
 }
 .footer-text-icon {font-family: "Roboto",
 sans-serif;
