@@ -253,7 +253,7 @@ border: 1px solid #8e8f99;
     align-items: center;
     justify-content: center;
     margin-bottom: 8px;
-  
+  padding: 24px auto;
     
 }
 /* .goal-icon{
@@ -317,7 +317,7 @@ border: 1px solid #8e8f99;
 
 .team-item{
 
-    background: #fff;
+  
     border-radius: 0px 0px 4px 4px;
         width:  calc((100% - 72px) / 4);
         height: 380px;
@@ -325,7 +325,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
   
 }
 .team-container {
-  
+    background: #fff;
         padding: 32px 0 32px;
 }
 
