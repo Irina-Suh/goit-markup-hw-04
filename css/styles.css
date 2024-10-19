@@ -499,9 +499,7 @@ font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     color: #f4f4fd;
 }
-/* .footer-container-icon{
 
-} */
 .footer-icon-list{
     display: flex;
 }
@@ -509,8 +507,6 @@ font-family: "Raleway", sans-serif;
 sans-serif;
 font-weight: 500;
 font-size: 16px;
-
-/* line-height: 24px; */
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #fff;
@@ -541,6 +537,7 @@ margin-bottom: 16px;}
 .footer-icon {
     fill: #f4f4fd;
 }
-.footer-icon-link:hover {
+.footer-icon-link:hover,
+.footer-icon-link:focus {
     background-color: #31d0aa;
 }
